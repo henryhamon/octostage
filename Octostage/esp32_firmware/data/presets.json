@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "OctoBank",
+    "switches": [
+      { "label": "Clean", "color": 65280, "pc": 1, "cc": 0, "val": 0, "toggle": 0 },
+      { "label": "Crunch", "color": 16753920, "pc": 2, "cc": 0, "val": 0, "toggle": 0 },
+      { "label": "Lead", "color": 16711680, "pc": 3, "cc": 0, "val": 0, "toggle": 0 },
+      { "label": "Solo", "color": 16711935, "pc": 4, "cc": 0, "val": 0, "toggle": 0 },
+      { "label": "Delay", "color": 255, "pc": 0, "cc": 10, "val": 127, "toggle": 1 },
+      { "label": "Rev", "color": 16776960, "pc": 0, "cc": 11, "val": 127, "toggle": 1 },
+      { "label": "Mod", "color": 65535, "pc": 0, "cc": 12, "val": 127, "toggle": 1 },
+      { "label": "Boost", "color": 16777215, "pc": 0, "cc": 13, "val": 127, "toggle": 1 },
+      { "label": "Bank-", "color": 32896, "pc": 0, "cc": 0, "val": 0, "toggle": 0 },
+      { "label": "Bank+", "color": 32896, "pc": 0, "cc": 0, "val": 0, "toggle": 0 }
+    ]
+  }
+]
